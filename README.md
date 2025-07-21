@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Shlok!
 
-<!--
-**Shlok1613/Shlok1613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about building innovative tech with a focus on simplicity and user experience.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack:
+- Python for scripting and backend
+- Full-stack Web Development (HTML, CSS, JavaScript, React, Node.js)
+- Exploring Web3 technologies and smart contracts
+- Learning and experimenting with AI/ML tools and models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Recent Project:
+Built a **crypto platform** where users can **trade and mint NFTs**, integrating blockchain with modern web technologies to deliver a seamless experience.
+
+---
+
+🧠 Always curious, always learning  
+📫 Feel free to connect or collaborate!
+
